@@ -1,0 +1,31 @@
+{
+ "_notes": "WHAT: this repo's ecosystem card. WHY: so an agent opening this repo knows it is part of Reign Forest and where the hub is. HOW: read hub_url for every repo's offers and needs; copy a part with a source line, never live-import. TIP: do not edit by hand; tools/rf_github_sweep.py rewrites it. FAILURE: if hub_url is unreachable, work from this card only. UPDATED: 2026-11-10",
+ "ecosystem": "reign-forest",
+ "repo": "googlecodelabs-tools",
+ "github": "https://github.com/8-Eighths/googlecodelabs-tools",
+ "default_branch": "DragonRider0o0-patch-1",
+ "hub_url": "https://github.com/8-Eighths/lord-shiva/blob/main/registry/hub_index.json",
+ "owner": "Lord Shiva",
+ "chain_of_command": "Lord Shiva > Beacon > MINGO / JAB / Curu / Claude Code / Jarvis",
+ "rules": [
+  "Never send our data out: only Vertex in our own Google Cloud may read business data.",
+  "A transfer between repos is a copy with a source line and a date, never a live import.",
+  "Lord Shiva approves a transfer before it happens; Beacon records who can do what.",
+  "Never delete: archive or move. No push to main. Nothing public without Matthew's typed go.",
+  "Never commit credentials. Cards and the index hold paths and purposes, never code or secrets."
+ ],
+ "card_version": 1,
+ "updated": "2026-11-10",
+ "tier": "archive",
+ "what_it_is": "A clone of Google's open-source CLaaT (Codelabs as a Thing) tooling. It compiles Google Docs or Markdown files into step-by-step interactive web tutorials.",
+ "fits_with": [
+  "magicnugalmanac.com",
+  "RF Library"
+ ],
+ "offers": [],
+ "needs": [],
+ "related": [],
+ "skip": [],
+ "first_step": "none",
+ "note": "no pass-2 entry: offers unknown until the next Vertex parts pass"
+}
